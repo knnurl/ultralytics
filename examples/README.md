@@ -33,6 +33,8 @@ Browse through the community-contributed examples below. These projects demonstr
 | [YOLOv8 OpenVINO CPP](./YOLOv8-OpenVINO-CPP-Inference)                                                                                    | C++/OpenVINO               | [Erlangga Yudi Pradana](https://github.com/rlggyp) ([See also OpenVINO Export](https://docs.ultralytics.com/integrations/openvino/))                 |
 | [YOLOv8 MNN CPP](./YOLOv8-MNN-CPP)                                                                                                        | C++/MNN                    | [Khoi VN](https://github.com/vnk8071)                                                                                                                |
 | [YOLOv5-YOLO11 ONNXRuntime Rust](./YOLO-Series-ONNXRuntime-Rust)                                                                          | Rust/ONNXRuntime           | [jamjamjon](https://github.com/jamjamjon)                                                                                                            |
+| [YOLO11 Delta Robot Conveyor Pick-and-Place](./YOLO11-Conveyor-Pick-Place)
+            | Python                     | [Ultralytics](https://www.ultralytics.com/blog/yolo11-enhancing-efficiency-conveyor-automation) |
 
 ## 🤝 How to Contribute
 
